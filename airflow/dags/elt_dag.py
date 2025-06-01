@@ -14,7 +14,7 @@ default_args = {
     'email_on_failure': False,
     'email_on_retry': False,
     'retries': 1,
-}
+
 
 # Python function to run local ELT script
 def run_elt_script():

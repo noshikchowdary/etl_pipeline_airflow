@@ -1,6 +1,6 @@
 # 🔄 Data Automation (ELT) Project
 
-Hi, I’m Noshik — I built this end-to-end ELT pipeline to automate data workflows using PostgreSQL, Apache Airflow, dbt, and Docker. It simulates a real-world data engineering setup and is fully containerized for portability.
+Hi, I’m Noshik — I built this end-to-end ELT pipeline to automate data workflows using PostgreSQL, Apache Airflow, dbt, and Docker. It simulates a real-world data engineering setup and is fully containerized for 
 
 ## 🚀 What This Project Does
 

@@ -3,7 +3,7 @@ CREATE TABLE users (
     first_name VARCHAR(50),
     last_name VARCHAR(50),
     email VARCHAR(100),
-    date_of_birth DATE
+    date_of_birth DAT
 );
 
 INSERT INTO users (first_name, last_name, email, date_of_birth) VALUES

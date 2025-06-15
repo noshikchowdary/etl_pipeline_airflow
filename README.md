@@ -1,4 +1,4 @@
-# 🚀 Modern ELT Pipeline with Airflow and dbt
+# 🚀 Modern ELT Pipeline with Airflow and db
 
 A production-grade ELT (Extract, Load, Transform) pipeline demonstrating modern data engineering practices. This project showcases a complete data pipeline using industry-standard tools and best practices.
 
